@@ -1,6 +1,5 @@
 # 📘 Epigenomics-Analysis-Notebook
 
-![Epigenomics Logo](./docs/logo.png) <!-- Optional: add a logo image to /docs -->
 
 A curated and well-documented notebook for best-practice **bioinformatics analysis of epigenomics data**. This resource is designed to serve as both a **pipeline** and a **tutorial** for epigenomics labs working with high-throughput chromatin profiling technologies, including:
 
