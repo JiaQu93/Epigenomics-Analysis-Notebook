@@ -79,13 +79,13 @@ Or use RStudio if working with `.Rmd` files.
 
 ## 📓 Included Workflows
 
-- `01_quality_control.ipynb` — FastQC, multiQC, and pre-alignment filtering  
-- `02_peak_calling.Rmd` — MACS2-based peak calling for different data types  
-- `03_peak_annotation.Rmd` — Annotation with **ChIPseeker** and **TxDb**  
-- `04_differential_analysis.Rmd` — Using **DESeq2** and **csaw**  
-- `05_motif_enrichment.Rmd` — Motif discovery using **HOMER** or **MEME**  
-- `06_data_integration.Rmd` — Integration across data types or with RNA-seq  
-- `07_visualization.ipynb` — Genome browser-style plots and heatmaps
+- `01_quality_control.ipynb` — Quality assessment with **FastQC**, **MultiQC**, and pre-alignment filtering  
+- `02_peak_calling.Rmd` — Peak calling using **MACS2**, tailored for diverse data types  
+- `03_peak_annotation.Rmd` — Functional annotation via **ChIPseeker** and **TxDb**  
+- `04_differential_analysis.Rmd` — Identification of differential peaks using **DESeq2** and **csaw**  
+- `05_motif_enrichment.Rmd` — Motif analysis with **HOMER** or **MEME Suite**  
+- `06_visualization.ipynb` — Publication-quality visualizations: genome browser tracks, heatmaps, and signal plots
+- `07_data_integration.Rmd` — Multi-omics integration, including cross-platform and RNA-seq alignment  
 
 ---
 
