@@ -18,8 +18,8 @@ This repository provides standardized, reproducible workflows and hands-on noteb
 
 - Preprocessing and quality control  
 - Peak calling and annotation  
-- Differential analysis and visualization  
-- Data integration and interpretation  
+- Differential analysis and downstream analysis
+- Visualization and interpretation  
 
 It is intended to **train lab members**, **standardize lab protocols**, and **support new project development** in epigenomic profiling.
 
